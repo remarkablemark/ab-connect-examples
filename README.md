@@ -3,7 +3,7 @@
 [AB Connect](https://abconnect.docs.apiary.io/) examples:
 
 - [Curl](#curl)
-- [Node.js](nodejs)
+- [Node.js](#nodejs)
 - [PHP](#php)
 
 ## Curl
